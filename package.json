@@ -25,5 +25,10 @@
   },
   "directories": {
     "example": "example"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react-mixin": "2",
+    "rebound": "^0.0.15"
   }
 }
