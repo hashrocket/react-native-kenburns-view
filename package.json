@@ -29,6 +29,7 @@
   "dependencies": {
     "prop-types": "^15.6.0",
     "react-mixin": "2",
+    "react-timer-mixin": "^0.13.3",
     "rebound": "^0.0.15"
   }
 }
