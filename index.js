@@ -7,4 +7,5 @@
  * Description: This reflects the KenBurns effect in a React Native Image
  */
 
-module.exports = require('./lib/KenBurnsImage');
+import KenBurnsView from './lib/KenBurnsView';
+export default KenBurnsView;
